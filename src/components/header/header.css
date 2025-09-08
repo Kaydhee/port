@@ -47,12 +47,16 @@ header {
   border-radius: 12rem 12rem 0 0;
   overflow: hidden;
   padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.me img {
+/* .me img {
   height: 100%;
   width: 100%;
-}
+} */
 
 /* SCROLL DOWN */
 .scroll__down {
