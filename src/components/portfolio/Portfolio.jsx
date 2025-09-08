@@ -4,7 +4,7 @@ import IMG2 from "../../assets/test2.png";
 import IMG3 from "../../assets/test3.png";
 import IMG4 from "../../assets/test4.png";
 import IMG5 from "../../assets/test5.png";
-// import IMG6 from "../../assets/img6.png";
+import IMG6 from "../../assets/test6.png";
 
 // Dynamically mapping through projects
 
@@ -43,6 +43,13 @@ const data = [
     title: "Calnita",
     github: "https://github.com",
     demo: "https://www.calnita.com/",
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: "The Chain Of Good",
+    figma: "https://figma.com",
+    demo: "https://www.figma.com/proto/KNEnAjy1ucNKgckw0QkrCW/TCOG-Web-App?node-id=2-4&p=f&t=axjDxnVQqjQbKXH7-1&scaling=min-zoom&content-scaling=fixed&page-id=2%3A3&starting-point-node-id=2%3A4",
   },
   //   {
   //     id: 1,
