@@ -1,7 +1,7 @@
 import "./header.css";
 // import CTA from "./CTA";
 // import ME from "../../assets/me.png";
-import ME from "../../assets/Finnovate logo.jpg";
+import ME from "../../assets/Finnovate_logo.png";
 import HeaderSocials from "./HeaderSocials";
 
 const Header = () => {
@@ -10,7 +10,7 @@ const Header = () => {
       <div className="container header__container">
         <h5>Welcome to </h5>
         {/* <h5>Hello I'm</h5> */}
-        <h1>Finnovate Africa solutions Ltd.</h1>
+        <h1>Finnovate Africa Solutions Ltd.</h1>
         {/* <h1>Daniel David</h1> */}
         {/* <h5 className="text-light">Fullstack Developer</h5> */}
         {/* <CTA /> */}

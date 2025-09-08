@@ -16,23 +16,23 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Research users to create detailed personas.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Design wireframes, mockups, and prototypes.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Build intuitive flows for smooth navigation.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Conduct usability tests for design improvements.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Create responsive layouts for all devices.</p>
             </li>
           </ul>
         </article>
@@ -40,33 +40,33 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Web Developement</h3>
+            <h3>Web Development</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Develop scalable and efficient web applications.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Write clean, maintainable, and secure code.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Integrate APIs and essential third-party services.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Optimize websites for speed and performance.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Architect back-end systems with robust databases.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Ensure responsive, cross-browser compatible designs.</p>
             </li>
           </ul>
         </article>
@@ -74,29 +74,29 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Product Developement</h3>
+            <h3>Product Development</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Translate business ideas into product roadmaps.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Define strategy aligned with market opportunities.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Oversee ideation, design, development, launch.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Conduct competitive and detailed market research.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor sit amet consectetur.</p>
+              <p>Collaborate cross-functional teams for successful delivery.</p>
             </li>
           </ul>
         </article>

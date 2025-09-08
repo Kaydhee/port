@@ -36,16 +36,17 @@ const About = () => {
             <article className="about__card">
               <VscNewFolder className="about__card-icon" />
               <h5>Projects</h5>
-              <small>40+ completed Projects</small>
+              <small>30+ completed Projects</small>
             </article>
           </div>
 
           <p>
-            We are a product development company passionate about turning ideas
-            into impactful solutions. Our team combines creativity, technology,
-            and strategy to design and build products that meet real-world
-            needs. From concept to launch, we focus on innovation, quality, and
-            collaboration, helping businesses bring their vision to life.
+            Our Product Development team transforms ideas into impactful
+            solutions. By blending creativity, technology, and strategy, we
+            design and build products that meet real-world needs. Guided by
+            innovation, quality, and collaboration, we ensure every idea grows
+            into something meaningful for businesses and communities, hereby
+            driving us closer to our goal of empowering Africans.
           </p>
 
           <a href="#contact" className="btn btn-primary">

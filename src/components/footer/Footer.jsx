@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <footer id="footer">
       <a href="#" className="footer__logo">
-        FINNOVATE AFRICA SOLUTIONS LTD.
+        Finnovate Africat Solutions Ltd.
       </a>
       {/* <a href="#" className="footer__logo">
         DANIEL

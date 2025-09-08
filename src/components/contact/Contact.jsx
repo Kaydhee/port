@@ -1,9 +1,10 @@
 import "./contact.css";
 import { MdOutlineMail } from "react-icons/md";
-import { TfiTwitter } from "react-icons/tfi";
+// import { TfiTwitter } from "react-icons/tfi";
 import { RiWhatsappFill } from "react-icons/ri";
 import React, { useRef } from "react";
 import emailjs from "emailjs-com";
+import { BsLinkedin } from "react-icons/bs";
 
 const Contact = () => {
   const form = useRef();
@@ -24,7 +25,7 @@ const Contact = () => {
   return (
     <section id="contact">
       <h5>Get In Touch</h5>
-      <h2>Contact Me</h2>
+      <h2>Contact Us</h2>
 
       <div className="container contact__container">
         <div className="contact__options">
@@ -39,10 +40,14 @@ const Contact = () => {
           </article>
 
           <article className="contact__option">
-            <TfiTwitter className="contact__option-icon" />
-            <h4>Twitter</h4>
+            {/* <TfiTwitter className="contact__option-icon" /> */}
+            <BsLinkedin className="contact__option-icon" />
+            <h4>Linked In</h4>
             <h5>Finnovate Africa</h5>
-            <a href="https://x.com/finnovateafrica?s=21" target="_blank">
+            <a
+              href="https://www.linkedin.com/company/finnovate-africa-solutions-ltd/"
+              target="_blank"
+            >
               Send a message
             </a>
           </article>

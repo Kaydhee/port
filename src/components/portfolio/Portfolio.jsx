@@ -1,45 +1,45 @@
 import "./portfolio.css";
-import IMG1 from "../../assets/img1.png";
-import IMG2 from "../../assets/img2.png";
-import IMG3 from "../../assets/img3.png";
-import IMG4 from "../../assets/img4.png";
-import IMG5 from "../../assets/img5.png";
-import IMG6 from "../../assets/img6.png";
+import IMG1 from "../../assets/test.png";
+import IMG2 from "../../assets/test2.png";
+import IMG3 from "../../assets/test3.png";
+import IMG4 from "../../assets/test4.png";
+import IMG5 from "../../assets/test5.png";
+// import IMG6 from "../../assets/img6.png";
 
 // Dynamically mapping through projects
 
 const data = [
   {
     id: 1,
-    image: IMG1,
+    image: IMG5,
     title: "Arennah",
     github: "https://github.com",
     demo: "http://arennah.com",
   },
   {
     id: 2,
-    image: IMG2,
+    image: IMG1,
     title: "Zedi Africa",
     github: "https://github.com",
     demo: "https://zedi.africa",
   },
   {
     id: 3,
-    image: IMG3,
+    image: IMG2,
     title: "The Roothub",
     github: "https://github.com",
     demo: "https://theroothub.com",
   },
   {
     id: 4,
-    image: IMG4,
+    image: IMG3,
     title: "Body Secrets",
     github: "https://github.com",
     demo: "https://bodysecretsng.com/",
   },
   {
     id: 5,
-    image: IMG5,
+    image: IMG4,
     title: "Calnita",
     github: "https://github.com",
     demo: "https://www.calnita.com/",
@@ -91,7 +91,7 @@ const data = [
 const Portfolio = () => {
   return (
     <section id="portfolio">
-      <h5>My Recent Works</h5>
+      <h5>Our Recent Works</h5>
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
