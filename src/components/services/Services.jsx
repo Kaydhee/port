@@ -4,7 +4,7 @@ import { BsCheck } from "react-icons/bs";
 const Services = () => {
   return (
     <section id="services">
-      <h5>What I Offer</h5>
+      <h5>What We Offer</h5>
       <h2>services</h2>
 
       <div className="container services__container">
@@ -74,7 +74,7 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Product Developement</h3>
           </div>
 
           <ul className="service__list">

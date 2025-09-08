@@ -31,8 +31,9 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineMail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>Dannieimeh@gmail.com</h5>
-            <a href="mailto:dannieimeh@gmail.com" target="_blank">
+            <h5>support@finnovateafrica.com</h5>
+            <a href="mailto:support@finnovateafrica.com" target="_blank">
+              {/* <a href="mailto:dannieimeh@gmail.com" target="_blank"> */}
               Send a message
             </a>
           </article>
@@ -40,8 +41,8 @@ const Contact = () => {
           <article className="contact__option">
             <TfiTwitter className="contact__option-icon" />
             <h4>Twitter</h4>
-            <h5>Daniel David</h5>
-            <a href="https://twitter.com/Dannie_Imeh" target="_blank">
+            <h5>Finnovate Africa</h5>
+            <a href="https://x.com/finnovateafrica?s=21" target="_blank">
               Send a message
             </a>
           </article>
@@ -49,9 +50,9 @@ const Contact = () => {
           <article className="contact__option">
             <RiWhatsappFill className="contact__option-icon" />
             <h4>Whatsapp</h4>
-            <h5>WhatsApp Me</h5>
+            <h5>WhatsApp Us</h5>
             <a
-              href="https://api.whatsapp.com/send?phone=+2348125875061"
+              href="https://api.whatsapp.com/send?phone=+2347034554224"
               target="_blank"
             >
               Send a message

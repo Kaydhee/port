@@ -9,7 +9,8 @@ const About = () => {
   return (
     <section id="about">
       <h5>Get To Know</h5>
-      <h2>About Me</h2>
+      <h2>About Us</h2>
+      {/* <h2>About Me</h2> */}
 
       <div className="container about__container">
         <div className="about__me">
@@ -29,21 +30,22 @@ const About = () => {
             <article className="about__card">
               <FiUsers className="about__card-icon" />
               <h5>Clients</h5>
-              <small>200+ clients Worldwide</small>
+              <small>10+ clients Worldwide</small>
             </article>
 
             <article className="about__card">
               <VscNewFolder className="about__card-icon" />
               <h5>Projects</h5>
-              <small>80+ completed Projects</small>
+              <small>40+ completed Projects</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga
-            officia earum distinctio praesentium! Consequatur ut sunt omnis
-            doloremque. Maiores possimus quia ducimus placeat quo doloremque
-            exercitationem cupiditate quod ad consequuntur!
+            We are a product development company passionate about turning ideas
+            into impactful solutions. Our team combines creativity, technology,
+            and strategy to design and build products that meet real-world
+            needs. From concept to launch, we focus on innovation, quality, and
+            collaboration, helping businesses bring their vision to life.
           </p>
 
           <a href="#contact" className="btn btn-primary">
