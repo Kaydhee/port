@@ -1,5 +1,6 @@
 import "./about.css";
-import ME from "../../assets/about.jpeg";
+// import ME from "../../assets/about.jpeg";
+import ME from "../../assets/Finnovate logo.jpg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscNewFolder } from "react-icons/vsc";
