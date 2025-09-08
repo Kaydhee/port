@@ -1,7 +1,7 @@
 import "./header.css";
 // import CTA from "./CTA";
 // import ME from "../../assets/me.png";
-import ME from "../../assets/Finnovate_logo.png";
+import ME from "../../assets/Finnovate_dark.png";
 import HeaderSocials from "./HeaderSocials";
 
 const Header = () => {
