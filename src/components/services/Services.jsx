@@ -40,13 +40,13 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Web/Mobile Development</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Develop scalable and efficient web applications.</p>
+              <p>Develop scalable and efficient web/mobile applications.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
@@ -58,7 +58,7 @@ const Services = () => {
             </li>
             <li>
               <BsCheck className="service__list-icon" />
-              <p>Optimize websites for speed and performance.</p>
+              <p>Optimize webs/mobile apps for speed and performance.</p>
             </li>
             <li>
               <BsCheck className="service__list-icon" />
